@@ -1,0 +1,16 @@
+{
+  "name": "webex-server",
+  "version": "1.0.0",
+  "description": "webex server for get attachment details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lakshitha madushan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "redis": "^2.8.0"
+  }
+}
